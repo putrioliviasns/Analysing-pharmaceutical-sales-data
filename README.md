@@ -1,7 +1,5 @@
 # Analysing Pharmaceutical Sales Data
 
-> **Project URL:** https://roadmap.sh/projects/pharmaceutical-sales-data
-
 ## 📌 Project Overview
 Analisis data penjualan harian produk farmasi berdasarkan klasifikasi ATC (Anatomical Therapeutic Chemical).
 
